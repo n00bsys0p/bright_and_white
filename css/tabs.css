@@ -16,7 +16,7 @@ ul.primary {
   padding: 0 0 0 10px;
   border-width: 0;
   list-style: none;
-  brightwhite-space: nowrap;
+  bright_and_white-space: nowrap;
   line-height: normal;
   background: url(../images/tabs/tab-bar.png) repeat-x left bottom; }
   ul.primary li {
@@ -61,7 +61,7 @@ ul.secondary {
   padding: 0 0 0 5px;
   border-bottom: 1px solid silver;
   list-style: none;
-  brightwhite-space: nowrap;
+  bright_and_white-space: nowrap;
   background: url(../images/tabs/tab-secondary-bg.png) repeat-x left bottom; }
   ul.secondary li {
     float: left;

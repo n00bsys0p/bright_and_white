@@ -105,7 +105,7 @@ p {
 abbr {
   border-bottom: 1px dotted #666;
   cursor: help;
-  brightwhite-space: nowrap;
+  bright_and_white-space: nowrap;
 }
 
 b, strong {
@@ -149,8 +149,8 @@ pre, code, kbd, samp, tt {
 }
 
 pre { // Improve readability of pre-formatted text in all browsers
-  brightwhite-space: pre;
-  brightwhite-space: pre-wrap;
+  bright_and_white-space: pre;
+  bright_and_white-space: pre-wrap;
   word-wrap: break-word;
   background-color: #efefef;
   display: block;

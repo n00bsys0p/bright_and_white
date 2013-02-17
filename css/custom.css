@@ -175,7 +175,7 @@ ul.tabs.primary {
 }
 
 ul.tabs.primary li {
-  behavior: url(/sites/all/themes/brightwhite/css/PIE.htc);
+  behavior: url(/sites/all/themes/bright_and_white/css/PIE.htc);
   display: inline-block;
   height: 37px;
   border-radius: 7px 7px 0px 0px;
@@ -242,7 +242,7 @@ ul.tabs.primary li.first {
   border: 1px solid #aaaaaa;
   padding: 15px;
   background-color: #f8f8f8;
-  behavior: url(/sites/all/themes/brightwhite/css/PIE.htc);
+  behavior: url(/sites/all/themes/bright_and_white/css/PIE.htc);
 }
 
 #main {
@@ -329,7 +329,7 @@ footer#footer, div#footer {
   background: #262626 url(images/header.png) no-repeat;
   border: 1px solid #aaaaaa;
   border-top: none;
-  behavior: url(/sites/all/themes/brightwhite/css/PIE.htc);
+  behavior: url(/sites/all/themes/bright_and_white/css/PIE.htc);
 }
 
 footer#footer div, div#footer div {

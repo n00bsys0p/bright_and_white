@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 Installation
 
-- Download Boilerplate from http://drupal.org/project/brightwhite
+- Download Boilerplate from http://drupal.org/project/bright_and_white
 - Unpack the downloaded file and place the Boilerplate folder in your Drupal installation under 
   one of the following locations:
 
@@ -23,19 +23,19 @@ Installation
 follow these steps (to do BEFORE enabling the theme) :
 
 	- rename the theme folder to 'mytheme'
-	- rename brightwhite.info to mytheme.info
-	- Edit brightwhite.info and change the name, description, project (can be deleted)
-	- In template.php change each iteration of 'brightwhite' to 'mytheme'
-	- In mytheme.info change each iteration of 'brightwhite' to 'mytheme'
-	- In theme-settings.php change each iteration of 'brightwhite' to 'mytheme'
+	- rename bright_and_white.info to mytheme.info
+	- Edit bright_and_white.info and change the name, description, project (can be deleted)
+	- In template.php change each iteration of 'bright_and_white' to 'mytheme'
+	- In mytheme.info change each iteration of 'bright_and_white' to 'mytheme'
+	- In theme-settings.php change each iteration of 'bright_and_white' to 'mytheme'
 
-  - OR, you can simply use Drush to create a new theme based on Boilerplate.  Just type "drush brightwhite <new theme name>" and you're done.
+  - OR, you can simply use Drush to create a new theme based on Boilerplate.  Just type "drush bright_and_white <new theme name>" and you're done.
 __________________________________________________________________________________________
 
 What are the files for ?
 ------------------------
 
-- brightwhite.info => provide informations about the theme, like regions, css, settings, js ...
+- bright_and_white.info => provide informations about the theme, like regions, css, settings, js ...
 - block-system-main.tpl.php => template to edit the content
 - block.tpl.php => template to edit the blocks
 - comment.tpl.php => template to edit the comments
@@ -86,28 +86,28 @@ the following :
 	3. sidebars
 	4. footer
 
-This is how the page template is built in brightwhite, and it works in fluid and fixed layout.
+This is how the page template is built in bright_and_white, and it works in fluid and fixed layout.
 Refers to the notes in _layout.scss to see how to modify the layout.
 
 __________________________________________________________________________________________
 
-UPDATING brightwhite
+UPDATING bright_and_white
 
-Once you start using brightwhite, you will massively change it until a point where it has nothing
-to do with brightwhite anymore. Unlike ZEN, Boilerplate is not intended to be use as a base theme for a 
+Once you start using bright_and_white, you will massively change it until a point where it has nothing
+to do with bright_and_white anymore. Unlike ZEN, Boilerplate is not intended to be use as a base theme for a 
 sub-theme (even though it is possible to do so). Because of this, it is not necessary to
-update your theme when a new version of Boilerplate comes out. Always see brightwhite as a STARTER, and 
+update your theme when a new version of Boilerplate comes out. Always see bright_and_white as a STARTER, and 
 as soon as you start using it, it is not Boilerplate anymore, but your own theme.
 
-If you didn't rename your theme, but you don't want to be notified when brightwhite has a new version
-by the update module, simply delete "project = "brightwhite" in brightwhite.info
+If you didn't rename your theme, but you don't want to be notified when bright_and_white has a new version
+by the update module, simply delete "project = "bright_and_white" in bright_and_white.info
 
 __________________________________________________________________________________________
 
 Thanks for using Boilerplate, and remember to use the issue queue in drupal.org for any question
 or bug report:
 
-http://drupal.org/project/issues/brightwhite
+http://drupal.org/project/issues/bright_and_white
 
 Current maintainers:
 Dan Linn - dan@metaltoad.com

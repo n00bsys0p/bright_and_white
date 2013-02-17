@@ -525,7 +525,7 @@ body {
 
 ::selection {
   background: #fe57a1;
-  color: brightwhite;
+  color: bright_and_white;
   text-shadow: none; }
 
 img {
@@ -678,13 +678,13 @@ tr.odd {
   background: white; }
 
 #sidebar-second {
-  background: brightwhite; }
+  background: bright_and_white; }
 
 #navigation {
-  background: brightwhite; }
+  background: bright_and_white; }
 
 #footer {
-  background: brightwhite; }
+  background: bright_and_white; }
 
 @media print {
   * {
